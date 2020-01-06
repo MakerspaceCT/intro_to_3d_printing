@@ -9,6 +9,12 @@ from Prusa3D.com:
 
 Looking for some slides to flip through on the broader aspects of 3D Printing? Try [these (Google Slides)](https://docs.google.com/presentation/d/1ob5-KuuQ3EdOdN0CWxTPrqF97f5Qsi4dllhjSk9BcWI/edit?usp=sharing)
 
+# I have a 3D model and I just want to get started.
+
+See [**this guide from Prusa Research**](https://manual.prusa3d.com/Guide/How+to+import+profiles+to+Cura+4.x+(Windows+&+macOS)/1421) on setting up Cura 4.x on your Windows, MacOS, or Linux PC.
+
+Are you a Chromebook school? Give Astroprint a try. See [this post](https://forum.astroprint.com/t/using-chromebook-for-3d-printing/4687/2) for a quick overview of the process. We're working on a better guide for this, which will be forthcoming.
+
 # What should I 3D Print? How do I create a model?
 
 ## What if I just want to find and print a model someone else created?
